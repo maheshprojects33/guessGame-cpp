@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1578935887 source:c:\users\lenovo\documents\codeblocks\guess_game\main.cpp
+	<iostream>
+	<time.h>
+	<string>
+	<sstream>
+	<vector>
+
